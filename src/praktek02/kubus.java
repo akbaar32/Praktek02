@@ -3,6 +3,14 @@ public class kubus {
     double rusuka;
     double rusukb;
     double rusukc;
+
+    public kubus() {
+        rusuka=9;
+        rusukb=10;
+        rusukc=8;
+    }
+    
+    
     
     void cetakinfo(){
         System.out.println("=========================");
