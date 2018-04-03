@@ -6,6 +6,8 @@ public class kubusaksi {
         k1.rusuka=13;
         k1.rusukb=17;
         k1.rusukc=14;
+        
+        k1.cetakinfo();
     }
     
 }
