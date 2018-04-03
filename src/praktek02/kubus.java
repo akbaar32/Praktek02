@@ -12,4 +12,10 @@ public class kubus {
         System.out.println("=========================");
     }
     
+    double hitungvolume(){
+        double volume;
+        volume= rusuka*rusukb*rusukc;
+        return volume;
+    }
+    
 }

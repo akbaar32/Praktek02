@@ -8,6 +8,7 @@ public class kubusaksi {
         k1.rusukc=14;
         
         k1.cetakinfo();
+        System.out.println("Volume Kubus ="+k1.hitungvolume());
     }
     
 }
