@@ -10,6 +10,14 @@ public class kubusaksi {
         k1.cetakinfo();
         System.out.println("Volume Kubus ="+k1.hitungvolume());
         k1.cetakvolume();
+ 
+        kubus k2= new kubus();
+        k2.cetakinfo();
+        
+        kubus k3= new kubus(6,9,11);
+        k3.cetakinfo();       
     }
+
+    
     
 }

@@ -9,6 +9,14 @@ public class kubus {
         rusukb=10;
         rusukc=8;
     }
+
+    public kubus(double rusuka, double rusukb, double rusukc) {
+        this.rusuka = rusuka;
+        this.rusukb = rusukb;
+        this.rusukc = rusukc;
+    }
+    
+    
     
     
     
