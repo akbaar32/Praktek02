@@ -17,5 +17,8 @@ public class kubus {
         volume= rusuka*rusukb*rusukc;
         return volume;
     }
+    void cetakvolume(){
+        System.out.println("Volume nya adalah="+hitungvolume());
+    }
     
 }

@@ -9,6 +9,7 @@ public class kubusaksi {
         
         k1.cetakinfo();
         System.out.println("Volume Kubus ="+k1.hitungvolume());
+        k1.cetakvolume();
     }
     
 }
